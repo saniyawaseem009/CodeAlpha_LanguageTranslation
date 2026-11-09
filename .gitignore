@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables (API Keys)
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac System Files
+.DS_Store
+
+# Streamlit folder (jo pehle bana tha)
+.agents/
